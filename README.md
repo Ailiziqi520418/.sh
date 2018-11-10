@@ -1,1 +1,1 @@
-# .sh
+#CentOS system script
